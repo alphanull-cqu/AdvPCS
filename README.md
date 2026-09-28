@@ -4,7 +4,7 @@ This repository contains the released code for "Universal Cross-Prompt Adversari
 ![Python 3.8](https://img.shields.io/badge/python-3.8-green.svg?style=plastic)
 ![Pytorch 2.1.0](https://img.shields.io/badge/pytorch-2.4.0-red.svg?style=plastic)
 
-<img src="imgs/pipeline.png"/>
+<img src="./imgs/pipeline.png"/>
 
 ## Overview
 
